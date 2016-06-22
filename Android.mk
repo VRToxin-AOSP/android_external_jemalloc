@@ -99,6 +99,7 @@ jemalloc_lib_src_files := \
 	src/ticker.c \
 	src/tsd.c \
 	src/util.c \
+	src/witness.c \
 
 #-----------------------------------------------------------------------
 # jemalloc static library
